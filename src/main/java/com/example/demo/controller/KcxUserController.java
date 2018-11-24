@@ -11,6 +11,16 @@ import java.util.Map;
 public class KcxUserController {
     public static void main(String[] args) {
         System.out.println("KcxUserController");
+
+
+
+
+
+
+
+
+
+        addLog();
     }
 
 }
